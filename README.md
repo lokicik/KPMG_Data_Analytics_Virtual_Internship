@@ -4,7 +4,7 @@ The [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-i
 
 ## Introduction
 
-Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
+Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organization, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty. Ltd. is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
 The project is mainly divided into three tasks:
 
@@ -17,7 +17,7 @@ The client provided KPMG with 3 datasets:
 * Customer Addresses
 * Transactions data in the past 3 months
 
-We performed the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+We performed the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty. Ltd’s data.
 
 ## Task 2: Data Insights
 #### Targeting high value customers based on customer demographics and attributes.
@@ -35,5 +35,5 @@ Developed a dashboard using Tableau that displays the data summary and results o
 * What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 * What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
-## DataSource : 
+## Data Source : 
 [https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb](https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb)
